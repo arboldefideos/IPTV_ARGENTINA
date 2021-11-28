@@ -1,0 +1,90 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FscV0as.png",Tierramia TV (Opcion 1)
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="80293" tvg-name="Terramia TV" tvg-logo="https://i.imgur.com/FscV0as.png", Terramia TV (Opcion 2)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dKpLbh6.png",Music Top (Opcion 1)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="80288" tvg-name="Music Top" tvg-logo="https://i.imgur.com/dKpLbh6.png", Music Top (Opcion 2)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telemax_Argentina_(2018).png",TeleMax (Opcion 1)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png",Canal 26 (HD)
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/static/custom/logo-grande.png",5TV (Tigre)
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6miysb8.png",24/7 Canal de Noticias (Neuquen)
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCQJuaU.jpg",5RTV (Santa Fe)
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Francia
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV 2
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",CNN Ingles
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+
+#EXTINF:-1 tvg-logo="",El Garage TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
+
+#EXTINF:-1 tvg-logo="",Euronews
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
+
+
+#EXTINF:-1 tvg-logo="",Canal Encuentro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+
+#EXTINF:-1 tvg-logo="",GenTv
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Net_TV_(Argentina)#/media/Archivo:Net_TV_logo.png",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream0/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Informaci%C3%B3n_Period%C3%ADstica#/media/Archivo:Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg",IP TV
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
+#EXTINF:-1 tvg-logo="",Cine.Ar
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
+
+#EXTINF:-1 tvg-logo="",TELEFE
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1634930326~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=9f9485d06f948848860bbc130375002eaedaec4c7d8397feb8d5a425fd660f43
+
+#EXTINF:-1 tvg-logo="",Canal 9
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM0NzcyNzg5LCJzZXNzaW9uIjoiMTg2LjE5LjczLjk0Iiwid2hpdGVsaXN0IjpbIjE4Ni4xOS43My45NCJdfSwic2lnbmF0dXJlIjoiOGQ4MTdjNDkxZTMyMTkxMTI5NzEyYjVjYzJkN2FmMmViMjMwNThmNiJ9
+
+#EXTINF:-1 tvg-logo="", America Sports
+plugin://plugin.video.youtube/play/?video_id=1SmKEIpmcLU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
+plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:C5N_Logo_2015.PNG",C5N (YouT)
+plugin://plugin.video.youtube/play/?video_id=1xKycSal5SE
+
+#EXTINF:-1 tvg-logo="http://m3ues.com/wp-content/uploads/2020/10/la-nacion-mas.png",LN+ (YouT)
+plugin://plugin.video.youtube/play/?video_id=5ql5hNZQzKc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
+plugin://plugin.video.youtube/play/?video_id=GyRdMkZcFWk
+
+#EXTINF:-1 tvg-logo="",StarChannel (Pirata)
+http://regioplay.xyz/php/SR_REGIO_910112_/th.php?channel=vf0rrk11x&f=.m3u8
+
