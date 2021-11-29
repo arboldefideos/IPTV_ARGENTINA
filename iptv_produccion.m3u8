@@ -68,7 +68,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
 
 #EXTINF:-1 tvg-logo="",TELEFE
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1634930326~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=9f9485d06f948848860bbc130375002eaedaec4c7d8397feb8d5a425fd660f43
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-logo="",Canal 9
 https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b1200000.m3u8
