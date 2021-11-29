@@ -62,7 +62,7 @@ http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Net_TV_(Argentina)#/media/Archivo:Net_TV_logo.png",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream0/chunks.m3u8
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Informaci%C3%B3n_Period%C3%ADstica#/media/Archivo:Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg",IP TV
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
