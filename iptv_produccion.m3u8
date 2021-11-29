@@ -58,6 +58,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
 #EXTINF:-1 tvg-logo="",Canal de la Musica
 http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
+#EXTINF:-1 tvg-logo="",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
+
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Net_TV_(Argentina)#/media/Archivo:Net_TV_logo.png",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream0/chunks.m3u8
 
