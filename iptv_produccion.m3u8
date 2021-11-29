@@ -67,8 +67,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/CINE.AR_Play#/media/Archivo:CINEARLogo.png",Cine.Ar
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
 
-#EXTINF:-1 tvg-logo="",TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-logo="",El Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 
 #EXTINF:-1 tvg-logo="",Canal 9
 https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b1200000.m3u8
