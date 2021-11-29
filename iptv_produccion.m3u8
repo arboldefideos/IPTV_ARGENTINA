@@ -71,7 +71,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1634930326~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=9f9485d06f948848860bbc130375002eaedaec4c7d8397feb8d5a425fd660f43
 
 #EXTINF:-1 tvg-logo="",Canal 9
-https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM0NzcyNzg5LCJzZXNzaW9uIjoiMTg2LjE5LjczLjk0Iiwid2hpdGVsaXN0IjpbIjE4Ni4xOS43My45NCJdfSwic2lnbmF0dXJlIjoiOGQ4MTdjNDkxZTMyMTkxMTI5NzEyYjVjYzJkN2FmMmViMjMwNThmNiJ9
+https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="", America Sports
 plugin://plugin.video.youtube/play/?video_id=1SmKEIpmcLU
