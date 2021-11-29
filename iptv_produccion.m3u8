@@ -37,11 +37,6 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Francia
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV 2
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="",CNN Ingles
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
@@ -101,3 +96,8 @@ plugin://plugin.video.youtube/play/?video_id=GyRdMkZcFWk
 #EXTINF:-1 tvg-logo="",StarChannel (Pirata)
 http://regioplay.xyz/php/SR_REGIO_910112_/th.php?channel=vf0rrk11x&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV 2
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
