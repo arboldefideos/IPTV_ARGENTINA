@@ -7,6 +7,10 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b18
 #EXTINF:-1 tvg-logo="",America TV (Tucuman)
 http://45.6.4.154/americatuc/vivo.m3u8
 
+#EXTINF:-1 tvg-logo="",America TV (Buenos Aires)
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/6105a65b-c451-48ba-a268-d0ce0d8c1f85:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
+
+
 #EXTINF:-1 tvg-id="80293" tvg-name="Terramia TV" tvg-logo="https://i.imgur.com/FscV0as.png", Terramia TV (Opcion 2)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 
