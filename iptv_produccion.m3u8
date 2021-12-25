@@ -91,7 +91,7 @@ plugin://plugin.video.youtube/play/?video_id=1SmKEIpmcLU
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:C5N_Logo_2015.PNG",C5N (YouT)
-plugin://plugin.video.youtube/play/?video_id=1xKycSal5SE
+plugin://plugin.video.youtube/play/?video_id=jN0TnHxhliA
 
 #EXTINF:-1 tvg-logo="http://m3ues.com/wp-content/uploads/2020/10/la-nacion-mas.png",LN+ (YouT)
 plugin://plugin.video.youtube/play/?video_id=5ql5hNZQzKc
