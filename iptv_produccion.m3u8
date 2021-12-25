@@ -6,6 +6,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Telefe
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1640462115~exp=1640469315~acl=/i/appmitelefe_1@326430/*~hmac=770993c0de2164615976533e2d432b9d3bb2d2b9f8b1601fdbe6bd783f16fd2f
 
+#EXTINF:-1 tvg-logo="",America LRCDTH
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/407db08c-0379-4131-90a0-1985b03069d0:SCL/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FscV0as.png",Tierramia TV (Opcion 1)
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
 
