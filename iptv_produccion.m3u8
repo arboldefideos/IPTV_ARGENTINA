@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:C5N_Logo_2015.PNG",C5N (YouT)
+#EXTINF:-1 tvg-logo="https://imgur.com/a/jZwcN0H",C5N
 plugin://plugin.video.youtube/play/?video_id=jN0TnHxhliA
 
 #EXTINF:-1 tvg-logo="http://m3ues.com/wp-content/uploads/2020/10/la-nacion-mas.png",LN+ (YouT)
