@@ -6,6 +6,9 @@ plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 #EXTINF:-1 tvg-logo="https://imgur.com/a/jZwcN0H",C5N
 plugin://plugin.video.youtube/play/?video_id=jN0TnHxhliA
 
+#EXTINF:-1 tvg-logo="https://imgur.com/a/jZwcN0H",AMERICA YOUTUBE PROXY
+plugin://plugin.video.youtube/play/?https://104.149.167.110/watch?v=zcWXboTnous&__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20
+
 #EXTINF:-1 tvg-logo="http://m3ues.com/wp-content/uploads/2020/10/la-nacion-mas.png",LN+ (YouT)
 plugin://plugin.video.youtube/play/?video_id=5ql5hNZQzKc
 
