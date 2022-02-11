@@ -1,5 +1,17 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
+plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:C5N_Logo_2015.PNG",C5N (YouT)
+plugin://plugin.video.youtube/play/?video_id=jN0TnHxhliA
+
+#EXTINF:-1 tvg-logo="http://m3ues.com/wp-content/uploads/2020/10/la-nacion-mas.png",LN+ (YouT)
+plugin://plugin.video.youtube/play/?video_id=5ql5hNZQzKc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
+plugin://plugin.video.youtube/play/?video_id=GyRdMkZcFWk
+
 #EXTINF:-1 tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
@@ -93,18 +105,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.
 
 #EXTINF:-1 tvg-logo="", America Sports
 plugin://plugin.video.youtube/play/?video_id=1SmKEIpmcLU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
-plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
-
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:C5N_Logo_2015.PNG",C5N (YouT)
-plugin://plugin.video.youtube/play/?video_id=jN0TnHxhliA
-
-#EXTINF:-1 tvg-logo="http://m3ues.com/wp-content/uploads/2020/10/la-nacion-mas.png",LN+ (YouT)
-plugin://plugin.video.youtube/play/?video_id=5ql5hNZQzKc
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
-plugin://plugin.video.youtube/play/?video_id=GyRdMkZcFWk
 
 #EXTINF:-1 tvg-logo="",StarChannel (Pirata)
 http://regioplay.xyz/php/SR_REGIO_910112_/th.php?channel=vf0rrk11x&f=.m3u8
