@@ -121,4 +121,5 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" radio="true",Radio Disney
 https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Popradio.gif" radio="true",POP Radio
+https://ny2.stweb.tv/popradio/live32/chunks.m3u8?nimblesessionid=89470573
