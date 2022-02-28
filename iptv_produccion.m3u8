@@ -1,19 +1,25 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/jZwcN0H",C5N
-plugin://plugin.video.youtube/play/?video_id=jN0TnHxhliA
-
-#EXTINF:-1 tvg-logo="https://imgur.com/a/jZwcN0H",AMERICA YOUTUBE PROXY
-plugin://plugin.video.youtube/play/?video_id=https://104.149.167.110/watch?v=zcWXboTnous&__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20
+#EXTINF:-1 tvg-logo="https://imgur.com/a/jZwcN0H",C5N (YouT)
+plugin://plugin.video.youtube/play/?video_id=8MrC0LPmOfc
 
 #EXTINF:-1 tvg-logo="http://m3ues.com/wp-content/uploads/2020/10/la-nacion-mas.png",LN+ (YouT)
-plugin://plugin.video.youtube/play/?video_id=5ql5hNZQzKc
+plugin://plugin.video.youtube/play/?video_id=GZEwdVV5DTY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
-plugin://plugin.video.youtube/play/?video_id=GyRdMkZcFWk
+plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
+
+#EXTINF:-1 tvg-logo="",TeleMundo (YouT)
+plugin://plugin.video.youtube/play/?video_id=UYMrrmh5sNI
+
+#EXTINF:-1 tvg-logo="",EuroNews (YouT)
+plugin://plugin.video.youtube/play/?video_id=fGxRI7cddzc
+
+#EXTINF:-1 tvg-logo="",DW Español (YouT)
+plugin://plugin.video.youtube/play/?video_id=bKpGAHgpYoU
 
 #EXTINF:-1 tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
@@ -76,9 +82,6 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 
 #EXTINF:-1 tvg-logo="",El Garage TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
-
-#EXTINF:-1 tvg-logo="",Euronews
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
 
 #EXTINF:-1 tvg-logo="",Canal Encuentro
