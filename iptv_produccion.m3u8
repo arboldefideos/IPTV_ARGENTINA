@@ -117,3 +117,11 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV 2
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 radio="true",Disney MP3
+https://edge-np.cdn.mdstrm.com/5a9ee26311c043ae48e40bcd.mp3 
+
+#EXTINF:-1 radio="true",Disney Stream
+http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8
+
+
