@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/768px-C5N_logo.svg.png",C5N (YouT)
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG",C5N (YouT)
 plugin://plugin.video.youtube/play/?video_id=8MrC0LPmOfc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
 plugin://plugin.video.youtube/play/?video_id=GZEwdVV5DTY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
 plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/910px-Telemundo_logo_2018.svg.png",TeleMundo (YouT)
@@ -21,13 +21,13 @@ plugin://plugin.video.youtube/play/?video_id=fGxRI7cddzc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1024px-Deutsche_Welle_symbol_2012.svg.png",DW Español (YouT)
 plugin://plugin.video.youtube/play/?video_id=bKpGAHgpYoU
 
-#EXTINF:-1 tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telemax_Argentina_(2018).png",TeleMax
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telemax_Argentina_(2018).png",TeleMax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",Net TV
@@ -45,10 +45,10 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b18
 #EXTINF:-1 tvg-id="80293" tvg-name="Terramia TV" tvg-logo="https://i.imgur.com/FscV0as.png", Terramia TV (Opcion 2)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dKpLbh6.png",Music Top (Opcion 1)
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://i.imgur.com/dKpLbh6.png",Music Top (Opcion 1)
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="80288" tvg-name="Music Top" tvg-logo="https://i.imgur.com/dKpLbh6.png", Music Top (Opcion 2)
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="Music Top" tvg-logo="https://i.imgur.com/dKpLbh6.png", Music Top (Opcion 2)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/static/custom/logo-grande.png",5TV (Tigre)
@@ -69,7 +69,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="",Canal Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/CINE.AR_Play#/media/Archivo:CINEARLogo.png",Cine.Ar
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-logo="https://es.wikipedia.org/wiki/CINE.AR_Play#/media/Archivo:CINEARLogo.png",Cine.Ar
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
 
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
@@ -79,17 +79,21 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Canal de la Musica
 http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-#EXTINF:-1 tvg-logo="",DeporTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
 
-#EXTINF:-1 tvg-logo="",El Gourmet
+#EXTINF:-1 tvg-id="ElGourmetSur.ar" tvg-logo="",El Gourmet
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 
-#EXTINF:-1 tvg-logo="",PakaPaka
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="",PakaPaka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1024px-Logo_AM-sports-2019.svg.png", America Sports
 plugin://plugin.video.youtube/play/?video_id=Vt1WxzV3BkM
+
+#EXTINF:-1 tvg-id="" tvg-logo="", CanalEncuentro Prueba
+http://envivo.encuentro.gov.ar/
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" radio="true",Radio Disney
 https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
