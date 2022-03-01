@@ -1,18 +1,18 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG",C5N (YouT)
 plugin://plugin.video.youtube/play/?video_id=8MrC0LPmOfc
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
 plugin://plugin.video.youtube/play/?video_id=GZEwdVV5DTY
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
 plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/910px-Telemundo_logo_2018.svg.png",TeleMundo (YouT)
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/910px-Telemundo_logo_2018.svg.png",TeleMundo (YouT)
 plugin://plugin.video.youtube/play/?video_id=UYMrrmh5sNI
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/480px-Euronews._2016_alternative_logo.png",EuroNews (YouT)
