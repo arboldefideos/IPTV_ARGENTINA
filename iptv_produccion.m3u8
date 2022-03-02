@@ -3,6 +3,18 @@
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
+
+#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png",TELEFE ROSARIO
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
+
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG",C5N (YouT)
 plugin://plugin.video.youtube/play/?video_id=8MrC0LPmOfc
 
@@ -69,6 +81,9 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="",Canal Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png",TVU (Universidad de La Plata)
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-logo="https://es.wikipedia.org/wiki/CINE.AR_Play#/media/Archivo:CINEARLogo.png",Cine.Ar
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
 
@@ -94,6 +109,11 @@ plugin://plugin.video.youtube/play/?video_id=Vt1WxzV3BkM
 #EXTINF:-1 tvg-id="" tvg-logo="", CanalEncuentro Prueba
 http://envivo.encuentro.gov.ar/
 
+#EXTINF:-1 tvg-id="" tvg-logo="",MTV Biggest Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="",TeleSur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" radio="true",Radio Disney
 https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
