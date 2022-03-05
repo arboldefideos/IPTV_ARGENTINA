@@ -106,14 +106,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1024px-Logo_AM-sports-2019.svg.png", America Sports
 plugin://plugin.video.youtube/play/?video_id=Vt1WxzV3BkM
 
-#EXTINF:-1 tvg-id="" tvg-logo="", CanalEncuentro Prueba
-http://envivo.encuentro.gov.ar/
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="",TeleSur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", La Delio Valdez 
+plugin://plugin.video.youtube/play/?video_id=xblYyYgzXb4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" radio="true",Radio Disney
 https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
