@@ -117,8 +117,5 @@ https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-dis
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Popradio.gif" radio="true",POP Radio
 https://ny2.stweb.tv/popradio/live32/chunks.m3u8?nimblesessionid=89470573
 
-#EXTINF:-1 tvg-logo="" radio="true",Radio Mitre
-https://buecrplb01.cienradios.com.ar/Mitre790.aac
-
 #EXTINF:-1 tvg-logo="", radio="true", Radio Rivadavia
-plugin://plugin.video.youtube/play/?video_id=wje4a1FABJ8
+plugin://plugin.video.youtube/play/?video_id=uYxaXT4KZxE
