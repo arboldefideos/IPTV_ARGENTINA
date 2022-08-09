@@ -16,7 +16,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG",C5N (YouT)
-plugin://plugin.video.youtube/play/?video_id=-vGhSrfKfUQ
+plugin://plugin.video.youtube/play/?video_id=jF3jb9JDBr0
 
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
 plugin://plugin.video.youtube/play/?video_id=HYxWurJ3ejE
@@ -111,9 +111,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="",TeleSur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", La Delio Valdez 
-plugin://plugin.video.youtube/play/?video_id=xblYyYgzXb4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" radio="true",Radio Disney
 https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
 
@@ -121,7 +118,7 @@ https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-dis
 https://ny2.stweb.tv/popradio/live32/chunks.m3u8?nimblesessionid=89470573
 
 #EXTINF:-1 tvg-logo="" radio="true",Radio Mitre
-https://cdns-am79056-1.planisys.net/hls/chunklist.m3u8
+https://buecrplb01.cienradios.com.ar/Mitre790.aac
 
 #EXTINF:-1 tvg-logo="", radio="true", Radio Rivadavia
 plugin://plugin.video.youtube/play/?video_id=wje4a1FABJ8
