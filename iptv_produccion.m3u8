@@ -19,19 +19,19 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 plugin://plugin.video.youtube/play/?video_id=jF3jb9JDBr0
 
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
-plugin://plugin.video.youtube/play/?video_id=HYxWurJ3ejE
+plugin://plugin.video.youtube/play/?video_id=f0PKtx7ktkM
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
 plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/480px-Euronews._2016_alternative_logo.png",EuroNews (YouT)
-plugin://plugin.video.youtube/play/?video_id=fGxRI7cddzc
+plugin://plugin.video.youtube/play/?video_id=JbKgQhFlMdU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1024px-Deutsche_Welle_symbol_2012.svg.png",DW Español (YouT)
 plugin://plugin.video.youtube/play/?video_id=bKpGAHgpYoU
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
+http://200.115.193.177/live/26hd-720/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telemax_Argentina_(2018).png",TeleMax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
