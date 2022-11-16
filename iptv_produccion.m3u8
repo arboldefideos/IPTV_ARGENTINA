@@ -13,9 +13,12 @@ plugin://plugin.video.youtube/play/?video_id=nIkxJ05B5TI
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/423px-A24-logo.svg.png",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/423px-A24-logo.svg.png",A24 (YouT)
+plugin://plugin.video.youtube/play/?video_id=o8JBz0XFS_k
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG",C5N (YouT)
 plugin://plugin.video.youtube/play/?video_id=dbteiGt_t_4
