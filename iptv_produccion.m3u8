@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
+plugin://plugin.video.youtube/play/?video_id=IOSVORAZnRY
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Radio Mitre (YouT)
+plugin://plugin.video.youtube/play/?video_id=nIkxJ05B5TI
+
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
@@ -11,30 +17,27 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
-#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png",TELEFE ROSARIO
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
-
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG",C5N (YouT)
-plugin://plugin.video.youtube/play/?video_id=jF3jb9JDBr0
-
-#EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
-plugin://plugin.video.youtube/play/?video_id=HlhZ0XZHHaw
+plugin://plugin.video.youtube/play/?video_id=dbteiGt_t_4
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
 plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/480px-Euronews._2016_alternative_logo.png",EuroNews (YouT)
-plugin://plugin.video.youtube/play/?video_id=JbKgQhFlMdU
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1024px-Deutsche_Welle_symbol_2012.svg.png",DW Español (YouT)
-plugin://plugin.video.youtube/play/?video_id=bKpGAHgpYoU
+#EXTINF:-1 tvg-id="TVP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/320px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Publica
+https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
 http://200.115.193.177/live/26hd-720/master.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telemax_Argentina_(2018).png",TeleMax
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",TeleMax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png",TELEFE ROSARIO
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
@@ -63,9 +66,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/static/custom/logo-grande.png",5TV (Tigre)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",TV Publica
-https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6miysb8.png",24/7 Canal de Noticias (Neuquen)
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
@@ -91,9 +91,6 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Canal de la Musica
 http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="",DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
-
 #EXTINF:-1 tvg-id="ElGourmetSur.ar" tvg-logo="",El Gourmet
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 
@@ -101,9 +98,7 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1024px-Logo_AM-sports-2019.svg.png", America Sports
-plugin://plugin.video.youtube/play/?video_id=Vt1WxzV3BkM
-
-
+plugin://plugin.video.youtube/play/?video_id=B9hwOM6jAbs
 
 #EXTINF:-1 tvg-id="" tvg-logo="",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
@@ -118,4 +113,10 @@ https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-dis
 https://ny2.stweb.tv/popradio/live32/chunks.m3u8?nimblesessionid=89470573
 
 #EXTINF:-1 tvg-logo="", radio="true", Radio Rivadavia
-plugin://plugin.video.youtube/play/?video_id=uYxaXT4KZxE
+plugin://plugin.video.youtube/play/?video_id=ut6vSQ7tP0e4
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/480px-Euronews._2016_alternative_logo.png",EuroNews (YouT)
+plugin://plugin.video.youtube/play/?video_id=HYE67W-35KI
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1024px-Deutsche_Welle_symbol_2012.svg.png",DW Español (YouT)
+plugin://plugin.video.youtube/play/?video_id=bKpGAHgpYoU
