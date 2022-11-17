@@ -38,8 +38,8 @@ http://200.115.193.177/live/26hd-720/master.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",TeleMax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png",TELEFE ROSARIO
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fNURpai.png",Canal Ciudad
+https://g5.proy-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
@@ -53,6 +53,12 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 
 #EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/static/custom/logo-grande.png",5TV (Tigre)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1x1zzn.png",TecTV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
+#EXTINF:-1 tvg-logo="",TELEFE
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FscV0as.png",Tierramia TV (Opcion 1)
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
