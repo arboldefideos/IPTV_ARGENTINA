@@ -26,6 +26,11 @@ plugin://plugin.video.youtube/play/?video_id=dbteiGt_t_4
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
 plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
 
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="",DirecTV Sport Argentina
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+
+
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
 
