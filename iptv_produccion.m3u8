@@ -26,11 +26,6 @@ plugin://plugin.video.youtube/play/?video_id=dbteiGt_t_4
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
 plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="",DirecTV Sport Argentina
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-
-
-
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
 
@@ -47,7 +42,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 https://g5.proy-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/arboldefideos/telecentro_chupala/blob/main/Logo_de_eltrece.png",El Trece
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",Net TV
