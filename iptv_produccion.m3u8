@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
-plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+plugin://plugin.video.youtube/play/?video_id=O3bhL1gPdxM
 
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
 plugin://plugin.video.youtube/play/?video_id=IOSVORAZnRY
