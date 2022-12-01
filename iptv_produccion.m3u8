@@ -7,7 +7,7 @@ plugin://plugin.video.youtube/play/?video_id=O3bhL1gPdxM
 plugin://plugin.video.youtube/play/?video_id=IOSVORAZnRY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q3Qv5as.png",Radio Mitre (YouT)
-plugin://plugin.video.youtube/play/?video_id=nIkxJ05B5TI
+plugin://plugin.video.youtube/play/?video_id=JJv24sEKv7w
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
