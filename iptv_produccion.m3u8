@@ -4,7 +4,7 @@
 plugin://plugin.video.youtube/play/?video_id=6hWHWGJ1Gbw
 
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
-plugin://plugin.video.youtube/play/?video_id=0ib0IQf3_8M
+plugin://plugin.video.youtube/play/?video_id=4e8Iw3Frf1A
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q3Qv5as.png",Radio Mitre (YouT)
 plugin://plugin.video.youtube/play/?video_id=dHf3AqSLcM0
