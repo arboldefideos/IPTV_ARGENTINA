@@ -8,9 +8,6 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="",DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
-
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/320px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Publica
 https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
@@ -35,9 +32,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 
 #EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/static/custom/logo-grande.png",5TV (Tigre)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1x1zzn.png",TecTV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 #EXTINF:-1 tvg-logo="",TELEFE
 https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
@@ -72,9 +66,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png",TVU (Universidad de La Plata)
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
-#EXTINF:-1 tvg-id="Cinear.ar" tvg-logo="https://es.wikipedia.org/wiki/CINE.AR_Play#/media/Archivo:CINEARLogo.png",Cine.Ar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
-
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
@@ -84,12 +75,6 @@ http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 
 #EXTINF:-1 tvg-id="ElGourmetSur.ar" tvg-logo="",El Gourmet
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="",PakaPaka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",MTV Biggest Pop
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="",TeleSur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
