@@ -1,14 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",TN (YouT)
-plugin://plugin.video.youtube/play/?video_id=6hWHWGJ1Gbw
-
-#EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+ (YouT)
-plugin://plugin.video.youtube/play/?video_id=4e8Iw3Frf1A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q3Qv5as.png",Radio Mitre (YouT)
-plugin://plugin.video.youtube/play/?video_id=dHf3AqSLcM0
-
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
@@ -16,18 +7,6 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/423px-A24-logo.svg.png",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #Fuente: https://iptv-org.github.io/iptv/languages/spa.m3u
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1024px-Logo_AM-sports-2019.svg.png", America Sports
-plugin://plugin.video.youtube/play/?video_id=nhky7h6eSGM
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/423px-A24-logo.svg.png",A24 (YouT)
-plugin://plugin.video.youtube/play/?video_id=o8JBz0XFS_k
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG",C5N (YouT)
-plugin://plugin.video.youtube/play/?video_id=CO7ougR0GPY
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica (YouT)
-plugin://plugin.video.youtube/play/?video_id=InSydaLSSlw
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
@@ -109,8 +88,6 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="",PakaPaka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 
@@ -122,12 +99,3 @@ https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-dis
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Popradio.gif" radio="true",POP Radio
 https://ny2.stweb.tv/popradio/live32/chunks.m3u8?nimblesessionid=89470573
-
-#EXTINF:-1 tvg-logo="", radio="true", Radio Rivadavia
-plugin://plugin.video.youtube/play/?video_id=ut6vSQ7tP0e4
-
-#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/480px-Euronews._2016_alternative_logo.png",EuroNews (YouT)
-plugin://plugin.video.youtube/play/?video_id=HYE67W-35KI
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1024px-Deutsche_Welle_symbol_2012.svg.png",DW Español (YouT)
-plugin://plugin.video.youtube/play/?video_id=bKpGAHgpYoU
